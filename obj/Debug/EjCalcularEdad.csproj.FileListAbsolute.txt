@@ -1,0 +1,20 @@
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\EjCalcularEdad\bin\Debug\EjCalcularEdad.exe.config
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\EjCalcularEdad\bin\Debug\EjCalcularEdad.exe
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\EjCalcularEdad\bin\Debug\EjCalcularEdad.pdb
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\EjCalcularEdad\obj\Debug\EjCalcularEdad.csproj.AssemblyReference.cache
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\EjCalcularEdad\obj\Debug\EjCalcularEdad.CalculadoraEdades.resources
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\EjCalcularEdad\obj\Debug\EjCalcularEdad.Properties.Resources.resources
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\EjCalcularEdad\obj\Debug\EjCalcularEdad.csproj.GenerateResource.cache
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\EjCalcularEdad\obj\Debug\EjCalcularEdad.csproj.CoreCompileInputs.cache
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\EjCalcularEdad\obj\Debug\EjCalcularEdad.exe
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\EjCalcularEdad\obj\Debug\EjCalcularEdad.pdb
+C:\Users\mafeh\Downloads\EjCalcularEdad\bin\Debug\EjCalcularEdad.exe.config
+C:\Users\mafeh\Downloads\EjCalcularEdad\bin\Debug\EjCalcularEdad.exe
+C:\Users\mafeh\Downloads\EjCalcularEdad\bin\Debug\EjCalcularEdad.pdb
+C:\Users\mafeh\Downloads\EjCalcularEdad\obj\Debug\EjCalcularEdad.csproj.AssemblyReference.cache
+C:\Users\mafeh\Downloads\EjCalcularEdad\obj\Debug\EjCalcularEdad.CalculadoraEdades.resources
+C:\Users\mafeh\Downloads\EjCalcularEdad\obj\Debug\EjCalcularEdad.Properties.Resources.resources
+C:\Users\mafeh\Downloads\EjCalcularEdad\obj\Debug\EjCalcularEdad.csproj.GenerateResource.cache
+C:\Users\mafeh\Downloads\EjCalcularEdad\obj\Debug\EjCalcularEdad.csproj.CoreCompileInputs.cache
+C:\Users\mafeh\Downloads\EjCalcularEdad\obj\Debug\EjCalcularEdad.exe
+C:\Users\mafeh\Downloads\EjCalcularEdad\obj\Debug\EjCalcularEdad.pdb
